@@ -1,7 +1,16 @@
-# Electricity-theft-detection-project
-This technique of electricity theft detection was developed as my final year project.
-In this project, SMOTE with Tomek Links was used to combat data imbalance.
-The coefficient of variation in each data point as well as the peak and minimum consumption month
-were extracted as features. The shape of each datapoint was also considered as a feature.
-These features were then used to train an XGBoost classifier. The code details the performance of 
-this technique as well as other models used as a benchmark
+# Electricity Theft Detection using SMOTE with Tomek Links
+
+
+## Overview
+
+This project, developed as a final year project, focuses on the detection of electricity theft using advanced machine learning techniques. The primary approach employed here is the combination of SMOTE (Synthetic Minority Over-sampling Technique) with Tomek Links to address the issue of data imbalance. Additionally, various features, including the coefficient of variation, peak and minimum consumption months, and shape of each data point, are extracted and used to train an XGBoost classifier. This readme provides an overview of the project, its implementation details, and performance metrics in comparison to benchmark models.
+
+## Features
+
+- Data imbalance addressed using SMOTE with Tomek Links.
+- Key features extracted:
+  - Coefficient of variation in each data point.
+  - Peak and minimum consumption months.
+  - Shape of each data point.
+- Utilized XGBoost classifier for detection.
+
