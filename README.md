@@ -1,5 +1,7 @@
 # Electricity Theft Detection using SMOTE with Tomek Links and XGBOOST
 
+## UPDATES
+The detailed methodology implemented in this GitHub repository will be comprehensively explained and documented in an upcoming research paper.
 
 ## Overview
 
