@@ -1,4 +1,4 @@
-# Electricity Theft Detection using SMOTE with Tomek Links
+# Electricity Theft Detection using SMOTE with Tomek Links and XGBOOST
 
 
 ## Overview
